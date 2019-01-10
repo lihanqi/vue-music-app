@@ -1,0 +1,8 @@
+@import 'reset.scss';
+@import 'variable.scss';
+@import 'mixin.scss';
+
+body, html {
+    background: $color-background;
+    color: $color-text;
+}
